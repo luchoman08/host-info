@@ -1,0 +1,6 @@
+[submodule "host-info-backend"]
+	path = host-info-backend
+	url = https://github.com/luchoman08/host-info-backend
+[submodule "host-info-frontend"]
+	path = host-info-frontend
+	url = https://github.com/luchoman08/host-info-frontend
