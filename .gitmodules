@@ -7,3 +7,6 @@
 [submodule "ssllabs"]
 	path = ssllabs
 	url = https://github.com/luchoman08/ssllabs
+[submodule "goscraper"]
+	path = goscraper
+	url = https://github.com/luchoman08/goscraper
