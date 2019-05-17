@@ -4,3 +4,6 @@
 [submodule "host-info-frontend"]
 	path = host-info-frontend
 	url = https://github.com/luchoman08/host-info-frontend
+[submodule "ssllabs"]
+	path = ssllabs
+	url = https://github.com/luchoman08/ssllabs
